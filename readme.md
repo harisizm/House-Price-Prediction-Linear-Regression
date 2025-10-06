@@ -24,3 +24,9 @@ Python 3 (because it’s beginner-friendly) Requests (to fetch the webpage) Beau
 - vid-13.30
   https://www.youtube.com/watch?v=Wqmtf9SA_kk
 
+## Data set
+
+kaggle link:
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
+
