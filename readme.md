@@ -2,31 +2,33 @@
 
 predict the house prices using features like area , coordinates, rooms, income etc..
 
-main goal:: target variable = median house value \
+main goal: target variable = median house value
 
 20641 houses in total
+<img src="./image.png" alt="Screenshot" width="500"/>
 
 ### workflow in the notebook:
 
--load libraries
--load data
--pre process a string variable into number (scale)
+- load libraries
+- load data
+- pre process
+- encode string variables to 1s and 0s
+- feature engineering
+- apply the model
 
--
+## Results
+
+0.66 accuracy came with linear regression model
 
 ## Tech Stack:
 
-dummy
-Python 3 (because it’s beginner-friendly) Requests (to fetch the webpage) BeautifulSoup (bs4) (to extract data from the HTML) Pandas (just to save the data in a neat table)
+jupyter notebook
+working knowledge of ML FUNDAMENTALS
+
+sk.learn
+numpy
+pandas
 
 ## In future
 
-- vid-13.30
-  https://www.youtube.com/watch?v=Wqmtf9SA_kk
-
-## Data set
-
-kaggle link:
-https://www.kaggle.com/datasets/camnugent/california-housing-prices
-
-
+Accuracy can be imporved with random forest or more advance models definitely.
